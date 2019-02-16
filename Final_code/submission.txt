@@ -1,0 +1,3 @@
+Project: Auto-Tagging in Music using Convolutional Neural Networks
+
+Project code and report submitted by Trey Bradley(gab431@nyu.edu)
